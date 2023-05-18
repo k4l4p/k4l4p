@@ -13,8 +13,8 @@
 ## 🌱 I’m currently learning ...
 
 - Solidity
-- Smart contract development
-- Ethers.js
+- React Three Fiber
+- GSAP
 
 ## 📫 How to reach me:
 
