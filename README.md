@@ -28,10 +28,6 @@
 - React
 - Smart contract development
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=k4l4p&show_icons=true&hide_border=true)
-
 ## 🚀 My Projects
 
 [LFDINE](https://github.com/k4l4p/LF-dine-portal) - NFT Minting Portal for Pirata Group
