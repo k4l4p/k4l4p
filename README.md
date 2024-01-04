@@ -4,17 +4,17 @@
 
 👨‍💻 Frontend Developer | 📚 Learning Smart Contract Development
 
-🚀 I like building things to make my life easier and more efficient.
+🚀 Love building stuffs and breaking stuffs (then build it again)
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working for ...
 
-- A proprietary Defi Project
+- An undisclosed DEX based defi protocol
 
 ## 🌱 I’m currently learning ...
 
 - Solidity
-- React Three Fiber
-- GSAP
+- Three.js
+- How to become a typescript wizard🧙‍♂️
 
 ## 📫 How to reach me:
 
@@ -24,9 +24,8 @@
 
 ## 💬 Ask me about ...
 
-- Frontend development
-- React
-- Smart contract development
+- Typescript
+- React.js
 
 ## 🚀 My Projects
 
@@ -35,6 +34,6 @@
 
 ## 🔧 Technologies & Tools
 
-🌐 JavaScript | React | Vue
+🌐 Typescript | JavaScript | React | Vue
 
-🧰 Solidity | Ethers.js 
+🧰 Solidity | Ethers.js | viem
