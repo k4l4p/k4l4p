@@ -2,7 +2,7 @@
 
 # Yooo, I'm Caleb 👋
 
-👨‍💻 Frontend Developer | 📚 Learning Smart Contract Development
+👨‍💻 Frontend Developer
 
 🚀 Love building stuffs and breaking stuffs (then build it again)
 
@@ -12,8 +12,7 @@
 
 ## 🌱 I’m currently learning ...
 
-- Solidity
-- Three.js
+- Rust
 - How to become a typescript wizard🧙‍♂️
 
 ## 📫 How to reach me:
@@ -36,4 +35,4 @@
 
 🌐 Typescript | JavaScript | React | Vue
 
-🧰 Solidity | Ethers.js | viem
+🧰 Ethers.js | viem
